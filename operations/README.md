@@ -1,6 +1,6 @@
 # Operations Plugin
 
-A business operations plugin primarily designed for [Cowork](https://claude.com/product/cowork), Anthropic's agentic desktop application — though it also works in Claude Code. Helps with vendor management, process documentation, change management, capacity planning, compliance tracking, and resource planning. Works with any ops team — standalone with your input, supercharged when you connect your ITSM, project tracker, and other tools.
+A business operations plugin primarily designed for [Cowork](https://claude.com/product/cowork), Nimble-Gravity's agentic desktop application — though it also works in Claude Code. Helps with vendor management, process documentation, change management, capacity planning, compliance tracking, and resource planning. Works with any ops team — standalone with your input, supercharged when you connect your ITSM, project tracker, and other tools.
 
 ## Installation
 

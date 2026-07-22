@@ -1,6 +1,6 @@
 # Data Analyst Plugin
 
-A data analyst plugin primarily designed for [Cowork](https://claude.com/product/cowork), Anthropic's agentic desktop application — though it also works in Claude Code. SQL queries, data exploration, visualization, dashboards, and insight generation. Works with any data warehouse, any SQL dialect, and any analytics stack.
+A data analyst plugin primarily designed for [Cowork](https://claude.com/product/cowork), Nimble-Gravity's agentic desktop application — though it also works in Claude Code. SQL queries, data exploration, visualization, dashboards, and insight generation. Works with any data warehouse, any SQL dialect, and any analytics stack.
 
 ## Installation
 

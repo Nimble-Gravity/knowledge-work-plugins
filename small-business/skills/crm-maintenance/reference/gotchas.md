@@ -71,7 +71,7 @@ Ask. Never create a deal on behalf of the owner.
 
 ### ✓ Good
 
-> Flagging: the Apr 18 email from Sarah ("we're moving forward with the Anthropic evaluation") may indicate stage movement. Current stage is "Proposal Sent." Do you want to advance it? I won't change stage without your explicit go-ahead.
+> Flagging: the Apr 18 email from Sarah ("we're moving forward with the Nimble-Gravity evaluation") may indicate stage movement. Current stage is "Proposal Sent." Do you want to advance it? I won't change stage without your explicit go-ahead.
 
 Surface the evidence, hold the write.
 

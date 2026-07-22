@@ -1,6 +1,6 @@
 # Small Business Plugin
 
-Pre-built small business workflows for [Cowork](https://claude.com/product/cowork), Anthropic's agentic desktop application — also works in Claude Code. Install it once and you get 15 building-block skills, 15 ready-to-use workflows, and a router that understands plain English.
+Pre-built small business workflows for [Cowork](https://claude.com/product/cowork), Nimble-Gravity's agentic desktop application — also works in Claude Code. Install it once and you get 15 building-block skills, 15 ready-to-use workflows, and a router that understands plain English.
 
 You don't need to memorize anything. Just tell Claude what you need — "I'm stressed about making payroll," "a customer is angry," "what should I charge?" — and it figures out the right workflow and walks you through it. Every workflow pauses before taking action, so nothing happens without your say-so.
 
@@ -15,7 +15,7 @@ Install from [claude.com/plugins](https://claude.com/plugins/).
 ### Claude Code
 
 ```bash
-claude plugin marketplace add anthropics/knowledge-work-plugins
+claude plugin marketplace add Nimble-Gravity/knowledge-work-plugins
 claude plugin install small-business@knowledge-work-plugins
 ```
 
