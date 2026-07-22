@@ -1,6 +1,6 @@
 # Enterprise Search
 
-An enterprise search plugin primarily designed for [Cowork](https://claude.com/product/cowork), Anthropic's agentic desktop application — though it also works in Claude Code. Search across all your company's tools in one place — email, chat, documents, and wikis — without switching between apps.
+An enterprise search plugin primarily designed for [Cowork](https://claude.com/product/cowork), Nimble-Gravity's agentic desktop application — though it also works in Claude Code. Search across all your company's tools in one place — email, chat, documents, and wikis — without switching between apps.
 
 ---
 
